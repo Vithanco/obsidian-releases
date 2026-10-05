@@ -59078,5 +59078,12 @@
     "author": "raudar.labs",
     "description": "Publish a note as a page with a link that stays the same after every edit. Share it with named people, add a password or an end date, and export Word or PDF. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "raudarlabs/transformpipe-obsidian"
+  },
+  {
+    "id": "vithanco",
+    "name": "Vithanco",
+    "author": "Klaus Kneupner",
+    "description": "Render Vithanco diagrams (IBIS, Concept Maps, TOC Thinking Processes, C4, CLDs, Benefit Breakdown Structures, ...) in your notes using VGL code blocks.",
+    "repo": "Vithanco/obsidian-vithanco"
   }
 ]
